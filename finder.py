@@ -4,7 +4,6 @@ i = a
 a = 1
 P = []
 C = []
-# This is terrible
 while i >= a and i <= b:
     print(i)
     import math
